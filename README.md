@@ -14,6 +14,7 @@ $ npm install git+https://github.com/pmstss/json-non-unique-finder.git
 $ git clone https://github.com/pmstss/json-non-unique-finder
 $ cd json-non-unique-finder
 $ npm install
+$ grunt
 $ node usage.js test.json
 ```
 
